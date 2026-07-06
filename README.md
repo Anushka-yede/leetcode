@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-yede/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-yede/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-yede/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
