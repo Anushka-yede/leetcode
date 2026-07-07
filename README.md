@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-yede/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/Anushka-yede/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Anushka-yede/leetcode/tree/master/0414-third-maximum-number) |
 | [0724-find-pivot-index](https://github.com/Anushka-yede/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Anushka-yede/leetcode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Prefix Sum
