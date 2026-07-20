@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-yede/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Anushka-yede/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushka-yede/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anushka-yede/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Anushka-yede/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anushka-yede/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
