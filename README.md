@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0872-leaf-similar-trees](https://github.com/Anushka-yede/leetcode/tree/master/0872-leaf-similar-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anushka-yede/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -191,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anushka-yede/leetcode/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/Anushka-yede/leetcode/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/Anushka-yede/leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
