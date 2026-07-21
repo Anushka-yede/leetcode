@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anushka-yede/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-yede/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/Anushka-yede/leetcode/tree/master/0724-find-pivot-index) |
+| [0817-linked-list-components](https://github.com/Anushka-yede/leetcode/tree/master/0817-linked-list-components) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anushka-yede/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anushka-yede/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-yede/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0817-linked-list-components](https://github.com/Anushka-yede/leetcode/tree/master/0817-linked-list-components) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushka-yede/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anushka-yede/leetcode/tree/master/0141-linked-list-cycle) |
+| [0817-linked-list-components](https://github.com/Anushka-yede/leetcode/tree/master/0817-linked-list-components) |
 ## Tree
 |  |
 | ------- |
