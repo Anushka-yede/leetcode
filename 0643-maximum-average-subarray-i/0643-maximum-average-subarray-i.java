@@ -5,12 +5,11 @@ class Solution {
             windowsum += nums[i];
         }
         int maxsum = windowsum;
-
-        for(int i =k; i < nums.length; i++){
+        for(int i = k; i < nums.length; i++){
             windowsum += nums[i];
             windowsum -= nums[i - k];
             maxsum = Math.max(maxsum, windowsum);
         }
-        return (double)maxsum/k;
+        return (double) maxsum/k;
     }
 }
