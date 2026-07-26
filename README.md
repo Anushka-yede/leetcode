@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anushka-yede/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anushka-yede/leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushka-yede/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anushka-yede/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anushka-yede/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anushka-yede/leetcode/tree/master/0724-find-pivot-index) |
 | [0817-linked-list-components](https://github.com/Anushka-yede/leetcode/tree/master/0817-linked-list-components) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anushka-yede/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Anushka-yede/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Anushka-yede/leetcode/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anushka-yede/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Anushka-yede/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Anushka-yede/leetcode/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anushka-yede/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anushka-yede/leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anushka-yede/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushka-yede/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anushka-yede/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushka-yede/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
