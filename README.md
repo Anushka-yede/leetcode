@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Anushka-yede/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Anushka-yede/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Anushka-yede/leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anushka-yede/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushka-yede/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anushka-yede/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Anushka-yede/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Anushka-yede/leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Anushka-yede/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-yede/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Anushka-yede/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anushka-yede/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Anushka-yede/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anushka-yede/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Anushka-yede/leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anushka-yede/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Anushka-yede/leetcode/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Anushka-yede/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
