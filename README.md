@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anushka-yede/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anushka-yede/leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anushka-yede/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka-yede/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushka-yede/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anushka-yede/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushka-yede/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka-yede/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Anushka-yede/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anushka-yede/leetcode/tree/master/1563-stone-game-v) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka-yede/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-yede/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anushka-yede/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anushka-yede/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Anushka-yede/leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Anushka-yede/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka-yede/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anushka-yede/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
@@ -447,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anushka-yede/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anushka-yede/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
